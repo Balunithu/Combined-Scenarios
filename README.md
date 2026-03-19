@@ -69,24 +69,24 @@ Hospital Appointment Booking Mobile Application
 After organizing features based on user mental models, the following categories were created
 
 # Appointments:
-Book Appointment
-View Appointments
-Cancel Appointment
+1.Book Appointment
+2.View Appointments
+3.Cancel Appointment
 
 # Doctors:
-Doctor List
-Specializations
-Doctor Profiles
+1.Doctor List
+2.Specializations
+3.Doctor Profiles
 
 # Health Records:
-Medical History
-Prescriptions
-Test Reports
+1.Medical History
+2.Prescriptions
+3.Test Reports
 
 # Account:
-Profile
-Notifications
-Settings
+1.Profile
+2.Notifications
+3.Settings
 
 
 # Result:
