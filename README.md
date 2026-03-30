@@ -1,3 +1,4 @@
+![2](https://github.com/user-attachments/assets/e45efb1d-df11-41a5-8ae0-670a26f8bc04)
 # Combined-Scenarios
 
 # Aim:
@@ -21,6 +22,12 @@ booking problem.
 # Output
 Crazy 8s ideation diagram showing eight possible design solutions.
 ![WhatsApp Image 2026-03-30 at 5 10 38 PM](https://github.com/user-attachments/assets/c6077c2d-8876-463a-ab9a-64eb2bf8ed64)
+![2](https://github.com/user-attachments/assets/27005652-1a35-4bf9-bf9c-6f56b01f7cfc)
+![3](https://github.com/user-attachments/assets/d6b0487e-fc6c-475b-94d1-ea28285a745b)
+![4](https://github.com/user-attachments/assets/4233a78c-c78a-4678-bc8d-9dd6dd5d7ea5)
+![5](https://github.com/user-attachments/assets/5778d4be-4dee-4529-8d30-a501217ecade)
+
+
 
 
 # 2. User Stories:
