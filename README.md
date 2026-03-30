@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/e45efb1d-df11-41a5-8ae0-670a26f8bc04)
+
 # Combined-Scenarios
 
 # Aim:
