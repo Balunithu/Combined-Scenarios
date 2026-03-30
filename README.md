@@ -20,6 +20,8 @@ booking problem.
 
 # Output
 Crazy 8s ideation diagram showing eight possible design solutions.
+![WhatsApp Image 2026-03-30 at 5 10 38 PM](https://github.com/user-attachments/assets/c6077c2d-8876-463a-ab9a-64eb2bf8ed64)
+
 
 # 2. User Stories:
 User stories help understand the user's needs and goals.
